@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazoreChatDeepSeek.AppHost", "BlazoreChatDeepSeek.AppHost\BlazoreChatDeepSeek.AppHost.csproj", "{9DD25FC6-8632-49EB-AD57-BB8B0C98706D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazoreChatDeepSeek.ServiceDefaults", "BlazoreChatDeepSeek.ServiceDefaults\BlazoreChatDeepSeek.ServiceDefaults.csproj", "{3EE74663-A2B4-4C4B-A3B9-E952B649B764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazoreChatDeepSeek.ApiService", "BlazoreChatDeepSeek.ApiService\BlazoreChatDeepSeek.ApiService.csproj", "{B369770C-21E5-4390-83C8-2A2BB95325D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazoreChatDeepSeek.Web", "BlazoreChatDeepSeek.Web\BlazoreChatDeepSeek.Web.csproj", "{FDA77BE9-15A2-497D-BA64-596F6B3695BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD25FC6-8632-49EB-AD57-BB8B0C98706D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD25FC6-8632-49EB-AD57-BB8B0C98706D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD25FC6-8632-49EB-AD57-BB8B0C98706D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD25FC6-8632-49EB-AD57-BB8B0C98706D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE74663-A2B4-4C4B-A3B9-E952B649B764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE74663-A2B4-4C4B-A3B9-E952B649B764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE74663-A2B4-4C4B-A3B9-E952B649B764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE74663-A2B4-4C4B-A3B9-E952B649B764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B369770C-21E5-4390-83C8-2A2BB95325D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B369770C-21E5-4390-83C8-2A2BB95325D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B369770C-21E5-4390-83C8-2A2BB95325D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B369770C-21E5-4390-83C8-2A2BB95325D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA77BE9-15A2-497D-BA64-596F6B3695BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA77BE9-15A2-497D-BA64-596F6B3695BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA77BE9-15A2-497D-BA64-596F6B3695BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA77BE9-15A2-497D-BA64-596F6B3695BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
