@@ -1,6 +1,3 @@
-Install:
-docker.desktop
+Install: docker.desktop
 
-NuGet Package:
-CommunityToolkit.Aspire.Hosting.Ollama
-CommunityToolkit.Aspire.OllamaSharp
+NuGet Package: CommunityToolkit.Aspire.Hosting.Ollama; CommunityToolkit.Aspire.OllamaSharp
